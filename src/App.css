@@ -5,7 +5,7 @@
 
 .spline {
   position: absolute;
-  top: -60%;
+  top: -55%;
   right: 0%;
   z-index: 0;
   width: 100vw;
@@ -15,7 +15,7 @@
 .hero-relative {
   z-index: 100;
   position: relative;
-  top: 30%;
+  top: 20%;
 }
 
 .hero {
