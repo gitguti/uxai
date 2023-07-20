@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding:0 6rem;
+}
+
+.spline {
+  position: absolute;
+  top: -40%;
+  right: -15%;
+  z-index: 0;
+  width: 200%;
+  height: 200%;
+}
+
+.hero {
+  height: 100vh;
+  position: relative;
+}
