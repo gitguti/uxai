@@ -1,5 +1,6 @@
 import './App.css';
 import Spline from '@splinetool/react-spline';
+import { PopupButton } from '@typeform/embed-react'
 
 function App() {
 
@@ -11,6 +12,8 @@ function App() {
     <h1>Empower Your Time with AI Automation</h1>
     <p style={{width: '70%'}}>Streamline your workflow and elevate your productivity with the transformative power of AI automation. Create compelling UX/UI case studies effortlessly and focus on what truly matters.</p>
     <p style={{width: '70%'}}>Sign up and be the first to be notified when we open our doors</p>
+    <PopupButton id="O5GxuX60" style={{ width: '30%' }} className="my-form">
+    Suscribe </PopupButton>
     </div>
     </div>
     </>
