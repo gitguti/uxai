@@ -84,7 +84,7 @@ button:focus-visible {
 
 @media (min-width: 1024px) {
   h1 {
-    font-size: 7em;
+    font-size: 6em;
     line-height: 1.1;
     margin-bottom: 0px;
     color: #333333;
